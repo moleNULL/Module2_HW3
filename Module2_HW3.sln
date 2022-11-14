@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerWtihExceptions", "LoggerWtihExceptions\LoggerWtihExceptions.csproj", "{886DE137-76D4-49D0-BF04-6FA745F5FD90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerWithExceptions", "LoggerWithExceptions\LoggerWithExceptions.csproj", "{886DE137-76D4-49D0-BF04-6FA745F5FD90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
